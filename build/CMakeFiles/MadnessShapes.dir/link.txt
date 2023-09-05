@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MadnessShapes.dir/main.cpp.o CMakeFiles/MadnessShapes.dir/src/Circle.cpp.o CMakeFiles/MadnessShapes.dir/src/RedSquare.cpp.o CMakeFiles/MadnessShapes.dir/src/Triangle.cpp.o CMakeFiles/MadnessShapes.dir/src/Rectangle.cpp.o -o MadnessShapes 

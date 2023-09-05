@@ -1,0 +1,3 @@
+/home/deck/Projects/build/CMakeFiles/MadnessShapes.dir
+/home/deck/Projects/build/CMakeFiles/edit_cache.dir
+/home/deck/Projects/build/CMakeFiles/rebuild_cache.dir
