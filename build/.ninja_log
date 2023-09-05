@@ -1,0 +1,7 @@
+# ninja log v5
+2	31	1693856727493422524	CMakeFiles/MadnessShapes.dir/src/Triangle.cpp.o	ce983fbfabd837b1
+2	32	1693856727493422524	CMakeFiles/MadnessShapes.dir/src/Rectangle.cpp.o	5d879bfb7265574d
+1	601	1693856728063465041	CMakeFiles/MadnessShapes.dir/main.cpp.o	33c35d3738fc552e
+602	729	1693856728190141155	MadnessShapes	13fe618322a82d7d
+2	34	1693856727496756106	CMakeFiles/MadnessShapes.dir/src/Circle.cpp.o	4533f5cbc81897d9
+2	272	1693856727733440426	CMakeFiles/MadnessShapes.dir/src/RedSquare.cpp.o	8947da56212ebaa0
